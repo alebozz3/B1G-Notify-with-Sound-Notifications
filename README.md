@@ -5,4 +5,4 @@ This is the version of B1G Notify (https://github.com/CarlosVergikosk/B1G_NOTIFY
 ## ! WARNING !
 To play the sounds you need to load your files into Interact Sound and change their name to make it work.
 
-### This resource is needed to make my version of es_extended work with double work ()
+### This resource is needed to make my version of es_extended work with double work (https://github.com/alebozz3/es_extended-DOUBLE-JOB)
